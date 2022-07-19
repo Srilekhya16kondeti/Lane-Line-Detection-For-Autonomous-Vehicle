@@ -1,1 +1,2 @@
-# Lane-Line-Detection-For-Autonomous-Vehicle
+# lane_detection
+OpenCV Lane Detection using Python
